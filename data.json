@@ -1,0 +1,16 @@
+{
+  "pharmacy":{
+    "name":"CarePlus Pharmacy",
+    "license":"UP/AL/20B/12345",
+    "holder":"Rajesh Kumar",
+    "address":"Main Road, Aligarh, Uttar Pradesh",
+    "pharmacist":"Amit Sharma",
+    "registration":"UPP/PH/98765",
+    "updated_at":"08 Oct 2026"
+  },
+  "medicines":[
+    {"name":"Paracetamol 500 mg","generic_name":"Paracetamol","manufacturer":"ABC Pharma Ltd.","stock":"In Stock","purchase_price":"₹8.00","consumer_price":"₹10.00"},
+    {"name":"Amoxicillin 500 mg","generic_name":"Amoxicillin","manufacturer":"MediCare Labs","stock":"In Stock","purchase_price":"₹42.00","consumer_price":"₹48.00"},
+    {"name":"Pantoprazole 40 mg","generic_name":"Pantoprazole","manufacturer":"HealthFirst Ltd.","stock":"Low Stock","purchase_price":"₹18.00","consumer_price":"₹22.00"}
+  ]
+}
